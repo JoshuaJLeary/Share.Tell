@@ -1,0 +1,16 @@
+html {
+  background: url(http://cdn2-www.dogtime.com/assets/uploads/2016/09/shiba-inu-puppy-11.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+div {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
